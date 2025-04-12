@@ -1,0 +1,82 @@
+Reporte generado el: Sat Apr 12 18:05:10 UTC 2025
+
+TOP 10 Productos más vendidos
+--------------------------------------
+70 Gorra Deportiva
+65 Camiseta Blanca
+55 Taza de Cafe
+50 Gorra Casual
+50 Gafas de Lectura
+50 Camiseta Roja
+45 Pantalones Vaqueros
+45 Lampara LED
+45 Camiseta Azul
+40 Mochila Escolar
+
+Total de ingresos por categoría
+--------------------------------------
+Ropa 13621.2
+Electronica 10568.6
+Calzado 7348.4
+Accesorios 13551.5
+Muebles 4649.75
+
+Total de ingresos por mes
+--------------------------------------
+Mes  Total: 2013858
+
+Total de ingresos por cliente
+--------------------------------------
+Sofia Perez 999.9
+Ines Perez 1199.8
+Jose Martinez 1399.8
+Lucia Romero 1799.88
+Paula Gonzalez 699.72
+Ana Gomez 1499.7
+Antonio Lopez 2249.55
+Daniel Torres 959.88
+Esteban Perez 799.8
+Pedro Diaz 2249.75
+Raul Gonzalez 899.55
+Laura Martinez 1599.92
+Alvaro Diaz 749.5
+Andrea Lopez 1749.75
+Mariana Lopez 999.75
+Francisco Gomez 719.6
+Lucia Fernandez 899.55
+Roberto Diaz 799.5
+Monica Herrera 1249.95
+Isabel Romero 659.78
+Victor Garcia 749.7
+Carolina Perez 899.82
+Laura Torres 1279.92
+Sandra Romero 1739.71
+Claudia Sanchez 1349.85
+Maria Sanchez 599.85
+Victoria Herrera 1329.3
+Jose Garcia 1749.95
+Alberto Torres 699.65
+Nicolas Garcia 1499.97
+Raquel Gomez 974.35
+Carlos Martinez 799.5
+Diego Fernandez 1199.94
+Juan Lopez 600
+Carlos Garcia 599.85
+Pedro Sanchez 850.63
+Carmen Martin 2099.93
+Fernando Gonzalez 1199.6
+Juan Perez 629.82
+Elena Fernandez 1199.6
+Esteban Fernandez 989.67
+Ricardo Perez 714.45
+Marta Rodriguez 1279.92
+Luis Rodriguez 519.8
+
+Total de ingresos por departamento
+--------------------------------------
+Moda 686537
+Hogar 366184
+Electrónica 320385
+Deportes 457712
+Belleza 183040
+
